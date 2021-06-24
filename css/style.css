@@ -1,7 +1,7 @@
 /*header*/
 .logo {display: inline-block;
 	margin-right: 90px;
-	margin-left: 25px;
+	margin-left: 40px;
 	color: #FA6980;
 }
 .nav {display: inline-block;
@@ -9,13 +9,14 @@
 .nav-li-1 {display: inline-block;
 	margin-right: 22px;
 }
-.header {position: fixed;
+.header {background-color: #F6F8F9;
+	position: fixed;
 	width: 100%;
-	top: 0;
-	left: 0;
-	color: #F6F8F9;
 	padding-top: 20px;
 	padding-bottom: 20px;
+	top: 0;
+	left: 0;
+	
 
 }
 .image-christopher {display: inline-block;
